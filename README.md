@@ -1,5 +1,8 @@
 <h2>Python Activities</h2>
-The script files for a crazy 2D platformer game made with Unity, where the player's mechanics change frequently.
+A few interesting activities I have done in Python including:
+  <ol>
+    <li>Product Price Checker</li>
+  </ul>
 
 
 <h3>Dependencies</h3>
