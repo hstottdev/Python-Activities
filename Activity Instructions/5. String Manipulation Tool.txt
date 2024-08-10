@@ -1,0 +1,19 @@
+Objective:
+
+Create a Python script that takes a string as input and performs various string manipulation operations based on user choice.
+
+Instructions:
+
+1. Prompt the user to enter a string.
+
+2. Display a menu of string manipulation options:
+
+Option 1: Convert the string to uppercase
+Option 2: Convert the string to lowercase
+Option 3: Slice the string from a start index to an end index
+Option 4: Calculate the length of the string
+Option 5: Loop through each character in the string and display it on a new line
+3. Prompt the user to enter their choice.
+
+4. Perform the selected string manipulation operation and display the result.
+

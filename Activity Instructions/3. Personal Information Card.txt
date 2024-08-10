@@ -1,0 +1,38 @@
+Project: Personal Information Card
+
+Objective:
+
+Create a Python script that displays a personal information card with the following 
+details:
+
+Name
+Age
+City
+Hobby
+Instructions:
+
+1. Create variables to store the following information:
+
+name: Your name as a string
+age: Your age as an integer
+city: Your city as a string
+hobby: Your hobby as a string
+2. Use the print() function to display the personal information card with the stored 
+variables. Format the output to make it visually appealing.
+
+Example Output:
+Here's a sample solution:
+
+GitHub Example
+
+This small project demonstrates the following concepts:
+
+Creating variables to store different types of data (strings and integers)
+Assigning values to variables
+Using variables in print() statements to display the stored information
+Formatting the output using print() statements to create a visually appealing personal
+information card
+
+This project provides a simple and practical way to showcase the use of variables in 
+Python. Once you have completed this project and have created the desired output you 
+can add this to your GitHub repository to showcase your Python skills.

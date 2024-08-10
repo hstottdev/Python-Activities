@@ -1,0 +1,18 @@
+Project: Student Record Management System
+Objective:
+
+Create a Python script that manages student records using tuples, sets, and frozen sets, and demonstrates various operations and methods.
+
+
+
+Instructions:
+
+1. Create tuples to store student information (name, age, grade).
+
+2. Use tuple methods to count and index elements.
+
+3. Create sets to store unique student IDs and courses.
+
+4. Perform set operations like union, intersection, and difference.
+
+5. Use frozen sets to create immutable sets of student data.

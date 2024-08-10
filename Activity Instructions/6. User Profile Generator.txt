@@ -1,0 +1,23 @@
+Project: User Profile Generator
+Objective:
+
+Create a Python script that generates a user profile based on user input and demonstrates string manipulation techniques.
+
+
+
+Instructions:
+
+1. Prompt the user to enter the following information:
+
+	First name
+	Last name
+	Age
+	City
+	Occupation
+2. Use string concatenation to combine the first name and last name into a full name.
+
+3. Use string formatting to create a sentence that includes the user's age, city, and occupation.
+
+4. Use escape characters to include quotation marks and a new line in the profile description.
+
+5. Use string methods to modify the full name and profile description.

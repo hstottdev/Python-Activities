@@ -1,0 +1,46 @@
+Project: Random Number Generator
+Objective:
+
+Create a program that generates a random number between 1 and 100, then prints out 
+the number along with its data type.
+
+Instructions:
+
+Import the necessary module for generating random numbers.
+
+Create a variable named random_number and assign it a random integer between 1 and 
+100.
+
+Print the random number along with its data type using the type() function.
+
+Ensure you use both double and single quotes for string literals in your code.
+
+Ensure that your variables are using multi-word variable naming conventions such as 
+camel case, pascal case, or snake case.
+
+Experiment with type conversions by converting the random number to a float and then 
+to a complex number.
+
+Run your program and observe the outputs.
+
+
+Example Output:
+Here's a sample solution:
+
+GitHub Example
+
+This small project demonstrates the following concepts:
+
+The use of the type function in Python.
+The use of double and single quote stings in Python.
+Multi word variable names with camel case, pascal case and snake case.
+The understanding of different data types that are used in Python.
+The use of various methods to convert one data type to another in Python.
+The creation of random numbers using Pythons built in random module.
+How Python modules are imported. 
+
+
+This project provides a simple and practical way to showcase the use of variables, 
+data types, type conversions and importing modules in Python. Once you have completed
+this project and have created the desired output you can add this to your GitHub 
+repository to showcase your Python skills.

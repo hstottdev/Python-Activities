@@ -1,0 +1,14 @@
+Activity: Set up your Python Development Environment
+
+1. Download and install Python (Ensure that you add the directory path to your environment variables).
+2. Verify your installation of Python in your command prompt or terminal. 
+3. Install a package manager (pip) and update it.
+4. Download and install your integrated development environment (IDE).
+5. Consider setting up a virtual environment to manage project dependencies.
+6. Create a new project folder.
+7. Create a new Python file in your IDE.
+8. Add a print command that prints "Hello World" to the console to test the IDE.
+9. Give yourself a little pat on the back if it worked.
+10. If it did not work then try again. 
+11. Once you have it all working go and create a GitHub account 
+(To showcase all your awesome code that you will be creating in this course.)

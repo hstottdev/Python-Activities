@@ -1,0 +1,16 @@
+Project: Movie Recommender
+Objective:
+
+Create a Python script that recommends movies based on user preferences using booleans, logical operators, and conditional statements.
+
+
+
+Instructions:
+
+1. Prompt the user to answer a series of yes/no questions about their movie preferences.
+
+2. Use booleans to store the user's responses.
+
+3. Combine the booleans using logical operators to determine the movie genre.
+
+4. Use conditional statements to recommend movies based on the genre.

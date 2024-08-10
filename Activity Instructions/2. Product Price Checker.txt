@@ -1,0 +1,16 @@
+Project: Product Price Checker
+Objective:
+
+Create a program that stores the price of two products and then prints out the name of the product which is less expensive than the other one.
+
+Instructions:
+
+1. Create two variables where the names of the variables are their product names. 
+
+2. Assign each product variable with a numerical value that represents the price of the product. (Example shown below)
+
+ferrari: 420000
+toyota: 21000
+3. Create a conditional statement that checks to see which product is more expensive than the other one and prints out the name of the product which is less expensive.
+
+4. Ensure that you include clear comments and indentation in your code.

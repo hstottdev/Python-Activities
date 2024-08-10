@@ -1,0 +1,14 @@
+Project: Library Inventory Management
+Objective:
+
+Create a Python script that manages a library's inventory of books using lambdas, arrays, and simple OOP concepts.
+
+Instructions:
+
+1. Create a Book class with attributes for title, author, and availability.
+
+2. Use an array to store the library's collection of books.
+
+3 .Implement methods to add books, search for books by title or author, and update book availability using lambdas.
+
+4. Create instances of the Book class and test the functionality.

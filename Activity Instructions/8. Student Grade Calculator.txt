@@ -1,0 +1,16 @@
+Project: Student Grade Calculator
+Objective:
+
+Create a Python script that calculates a student's grade based on their test scores and demonstrates the use of various operators.
+
+
+
+Instructions:
+
+Create a list of test scores for a student.
+Use floor division to calculate the average score.
+Use comparison operators to determine the grade based on the average score.
+Use assignment operators to update the student's grade.
+Use membership operators to check if a specific score exists in the list of scores.
+Use identity operators to compare objects.
+Use bitwise operators to perform bitwise operations on the scores.
