@@ -18,7 +18,7 @@ Ordered from least to most in terms of complexity:
 
 <h3>Dependencies</h3>
   <ul>
-    <li>Python</li> 
+    <li>Python 3.9</li> 
     <li>NumPy</li>
   </ul>
 
