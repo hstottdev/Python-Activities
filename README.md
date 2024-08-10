@@ -1,7 +1,7 @@
 <h2>Python Activities</h2>
 A few interesting short activities I have done in Python.
 Ordered from least to most in terms of complexity:
-
+<br>
   <ol>
     <li>Product Price Checker</li>
     <li>Personal Information Card</li>
