@@ -1,0 +1,21 @@
+Project: Currency Converter
+Objective:
+
+Create a Python script that converts currency using exchange rates stored in a 
+separate module, demonstrating the concept of scope and module usage.
+
+
+Instructions:
+
+1. Create a module named exchange_rates.py to store the exchange rates.
+
+2. Define variables for exchange rates within the module.
+
+3. Create the main script currency_converter.py that imports the exchange_rates 
+module.
+
+4. Define functions in the main script to convert currency based on the exchange 
+rates from the module.
+
+5. Demonstrate the concept of scope by accessing variables from the module and 
+within the functions.
